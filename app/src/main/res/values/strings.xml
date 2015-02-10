@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zoo Directory</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="animals">
+        <item>Anaconda</item>
+        <item>Ant</item>
+        <item>Antelope</item>
+        <item>Bald Eagle</item>
+        <item>Bat</item>
+        <item>Camel</item>
+        <item>Cobra</item>
+        <item>Desert Tortoise</item>
+        <item>Dung Beetle</item>
+        <item>Elephant</item>
+        <item>Emu</item>
+    </string-array>
+    <string name="zoo">Zoo Information</string>
+    <string name="logout">Logout</string>
+    <string name="empty_message">Sorry, there are no animals.</string>
+</resources>
